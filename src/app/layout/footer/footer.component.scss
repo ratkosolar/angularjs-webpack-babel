@@ -1,0 +1,8 @@
+@import 'src/styles/_variables.scss';
+
+.layout-footer {
+    background: $background-light-gray;
+    display: flex;
+    align-items: center;
+    height: 4rem;
+}
